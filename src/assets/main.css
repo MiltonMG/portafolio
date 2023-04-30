@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=PT+Sans&family=Sigmar&display=swap');
+
+:root{
+  --primary: rgb(237, 150, 30);
+  --secondary: #515151;
+  --bgLight: #F3F3F3;
+  --bgLight2: #D1D5DB;
+  --bgDark: #292929;
+  --test-primary: #F7C9AA;
+  --test-secondary: #0D0F11;
+  --test-letter: #868788;
+  --test-letter: #868788;
+  }
+
+body{ 
+  font-family: 'PT Sans'!important;
+  color: rgb(219, 218, 218)!important;
+  font-size: 1.1rem!important;
+  background: var(--test-secondary)!important;
+}
+
+
+a {
+  text-decoration: none!important;
+  color: whitesmoke!important;
+
+}
+
+ul {
+  list-style: none!important;
+}
+
+hr {
+  /* border: solid var(--primary) !important; */
+  height: 1px !important;
+  /* Set the hr color */
+  background-color: var(--primary)  !important;
+  color: var(--primary)!important;
+  /* Modern Browsers */
+  /* filter: saturate(150%); */
+  opacity: 1!important;
+
+}
+
+
+.html {
+  color: #F25320!important;
+}
+.css {
+  color: #395ef6!important;
+}
+.js {
+  color: #E4D04B!important;
+}
+.vue {
+  color: #3FB984!important;
+}
+.quasar {
+  color: #3F9DE9!important;
+}
+.firebase {
+  color: #E97917!important;
+}
+
+.react {
+  color: rgb(0,205,242)!important;
+}
+.mongo {
+  color: #3c8731!important;
+}
+.node {
+  color: #83e961!important;
+}
+
+.express {
+  color: #a8a7a7!important;
+}
+
+
+#app { /*Global CSS*/
+
+}
+
+
