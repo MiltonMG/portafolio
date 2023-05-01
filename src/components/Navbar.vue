@@ -7,7 +7,7 @@
           <img
             alt="Logo"
             class="logo img-fluid"
-            src="../assets/WING.png"
+            src="../assets/logo.svg"
           />
         </div>
 
