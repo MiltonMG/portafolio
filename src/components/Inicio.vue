@@ -8,8 +8,8 @@
       <div class="col-12 col-lg-8 contenedor">
         <div class="row">
 
-          <h1 class="col-12 col-md-9 col-lg-7 text-start">Milton Galindo </h1> 
-          <div class="social col-12 col-md-3 col-lg-5 text-start">
+          <h1 class="col-12 col-md-9 col-lg-7 text-center text-md-start">Milton Galindo</h1> 
+          <div class="social col-12 col-md-3 col-lg-5 justify-content-center justify-content-md-start">
             <div class="col-3">
               <a href="https://www.linkedin.com/in/miltongalindo/" target="_blank">
                 <i class="fab fa-linkedin"></i>
@@ -17,7 +17,7 @@
             </div>
             
             <div class="col-3">
-              <a href="https://www.linkedin.com/in/miltongalindo/" target="_blank">
+              <a href="https://github.com/MiltonMG" target="_blank">
                 <i class="fab fa-github"></i>
               </a>
             </div>
@@ -41,7 +41,7 @@
             
              <!-- <br/><br/> Me especializo en lenguajes y tecnologías como: <span class="html">HTML</span>, <span class="css">CSS</span>, <span class="js">JavaScript</span>, <span class="node">Node JS</span>, <span class="react">React JS</span>, <span class="vue">Vue JS</span>, <span class="firebase">Firebase</span>, <span class="mongo">Mongo</span>. Como desarrollador web me encanta crear experiencias en línea emocionantes y atractivas para los usuarios, estoy comprometido a crear productos de alta calidad<br/><br/> -->
              <br><br>
-             Si necesitas ayuda con tus proyectos o simplemente quieres charlar sobre tecnología, ¡estoy aquí para ti! No dudes en contactarme, estaré encantado de escucharte y trabajar contigo. 😊
+             Si necesitas ayuda con tus proyectos estaré encantado de escucharte y trabajar contigo. 😊
           </p>
         </div>
       </div>

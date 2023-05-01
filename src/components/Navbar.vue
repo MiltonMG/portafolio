@@ -1,13 +1,13 @@
 <template>
   <!-- As a heading (onvertir modo telefono a pantallas con 600pxs) -->
-  <ul class="nav justify-content-center mb-2">
+  <ul class="nav justify-content-center mb-2 py-2">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-6 col-sm-3 col-md-4 col-lg-5 col-xl-7">
           <img
             alt="Logo"
-            class="logo"
-            src="https://logoeps.com/wp-content/uploads/2013/01/dragon-optical-logo-vector.png"
+            class="logo img-fluid"
+            src="../assets/WING.png"
           />
         </div>
 
@@ -19,7 +19,7 @@
           <li class="col" style="padding: 0 0"><router-link to="/Contacto">Contacto</router-link></li>
         </ul>
 
-        <div class="navbar col-6 col-sm-9 col-md-8 justify-content-end pe-5 ">
+        <div class="navbar col-6 col-sm-9 col-md-8 justify-content-end pe-3 ">
           <button class="navbar-toggler" @click="toggleMenu">&#9776;</button>
           <div class="overlay" v-if="showMenu" @click="toggleMenu"></div>
           <div class="menu" :class="{ show: showMenu }">
@@ -58,6 +58,11 @@ body {
   overflow: hidden;
 }
 
+.logo {
+  width: 50px;
+  height: 30px;
+}
+
 @media (min-width: 768px) {
   .navbar-toggler {
     display: none;
@@ -67,7 +72,7 @@ body {
 .navbar-toggler {
   border: none;
   background: none;
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: rgb(87, 86, 86);
   cursor: pointer;
   padding: 0;
@@ -96,12 +101,12 @@ body {
   z-index: 2;
   transform: translateX(-100%);
   transition: transform 0.5s ease-in-out;
-  opacity: 0.3;
+  opacity: 0;
 }
 
 .show {
   transform: translateX(0%);
-  opacity: 0.4;
+  opacity: 0.8;
 }
 
 .menu ul {
