@@ -67,7 +67,7 @@
           </button>
           <p class="text-center" style="color:var(--test-primary)" v-else>Por favor llena los campos para poder enviar.</p>
 
-          <input type="hidden" name="_next" value="http://localhost:5173/#/Contacto">
+          <input type="hidden" name="_next" value="https://polite-quokka-765c77.netlify.app/#/Contacto">
           <input type="hidden" name="_captcha" value="false">
         </form>
       </div>
