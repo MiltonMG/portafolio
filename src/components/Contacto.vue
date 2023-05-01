@@ -109,8 +109,8 @@
           </div>
 
           <!-- Botones redes -->
-          <div class="">
-            <h5 class="text-center py-4">Redes</h5>
+          <div>
+            <h5 class="text-center pt-2" style="padding-bottom:14px">Redes</h5>
             <hr />
             <div class="d-flex justify-content-center">
               <ul class="wrapper">
