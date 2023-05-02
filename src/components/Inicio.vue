@@ -192,6 +192,26 @@
                 </div>
             </div> <!--Fin card-->
 
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
+                <div class="card">
+                  
+                  <img  class="habilidad align-self-center mt-2" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" />
+                  
+                  <h5 class="text-center"> Bootstrap </h5>
+                  
+                </div>
+            </div> <!--Fin card-->
+
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
+                <div class="card">
+                  
+                  <img  class="habilidad align-self-center mt-2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/1024px-Google_Material_Design_Logo.svg.png" alt="Material" />
+                  
+                  <h5 class="text-center">Material</h5>
+                  
+                </div>
+            </div> <!--Fin card-->
+
             
 
         
