@@ -54,14 +54,14 @@
         </div>
 
         <div class="col-10">
-          <h2 class="text-center" style="">Habilidades</h2>
+          <h2 class="text-center my-4" style="">Habilidades</h2>
         </div>
 
         <div class="col-10 px-5">
           
-          <div class="row d-flex justify-content-center px-3">
+          <div class="row d-flex justify-content-center">
 
-            <div class="col-md-3 col-sm-4 col-6  mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2   col-6  mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="HTML" />
@@ -71,7 +71,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="CSS" />
@@ -81,7 +81,7 @@
                 </div>
             </div> <!--Fin card-->
             
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" />
@@ -91,7 +91,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="Node" />
@@ -101,7 +101,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="Express" />
@@ -111,7 +111,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2020/06/09140550/React-logo.png" alt="react" />
@@ -121,7 +121,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue" />
@@ -131,7 +131,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" alt="quasar" />
@@ -141,7 +141,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://cms-assets.tutsplus.com/uploads/users/1116/posts/24835/preview_image/mongodb-logo.png" alt="quasar" />
@@ -151,7 +151,7 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://www.gstatic.com/devrel-devsite/prod/v7d5fa6e40a039b81c27b0cf865f2e8926da1a55b440a1d59c186a490be9749f9/firebase/images/touchicon-180.png" alt="quasar" />
@@ -161,12 +161,33 @@
                 </div>
             </div> <!--Fin card-->
 
-            <div class="col-md-3 col-sm-4 col-6 mb-3">
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
                 <div class="card">
                   
                   <img  class="habilidad align-self-center mt-2" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" />
                   
                   <h5 class="text-center">Git</h5>
+                  
+                </div>
+            </div> <!--Fin card-->
+
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
+                <div class="card">
+                  
+                  <img  class="habilidad align-self-center mt-2" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a813a0c-ba36-40ae-82f3-85b420391de1.png?auto=format&q=50&w=80&h=80&fit=max&dpr=3" alt="MySQL" />
+                  
+                  <h5 class="text-center">Mysql</h5>
+                  
+                </div>
+            </div> <!--Fin card-->
+
+
+            <div class="col-md-3 col-sm-4 col-xl-2  col-6 mb-3">
+                <div class="card">
+                  
+                  <img  class="habilidad align-self-center mt-2" src="https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.png" alt="oracle" />
+                  
+                  <h5 class="text-center">Oracle DB</h5>
                   
                 </div>
             </div> <!--Fin card-->
@@ -216,6 +237,10 @@ h1 {
 
   /* font-family: 'Montserrat', sans-serif; */
   color: whitesmoke;
+}
+
+h5 {
+  font-size: 1rem;
 }
 
 img {
